@@ -122,10 +122,10 @@ This project wasn't easy. Here are two major hurdles I overcame:
 ## 6. Visual Proof
 
 ### Input Form (Before)
-*[Screenshot: Clean form with brand, product, audience, and tone fields]*
+<img width="1488" height="653" alt="image" src="https://github.com/user-attachments/assets/85103c75-734c-444d-b433-0c3a2be44002" />
 
 ### Generation in Progress
-*[Screenshot: Loading spinner with "Generating your ad creatives..." message]*
+<img width="1500" height="224" alt="image" src="https://github.com/user-attachments/assets/cec91349-91d0-49a4-8a0c-a1ed00d855c9" />
 
 ### Generated Creatives (After)
 *[Screenshot: Grid of 2-3 ad images with captions and download buttons]*
