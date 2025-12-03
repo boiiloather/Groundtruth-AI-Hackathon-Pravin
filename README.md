@@ -128,10 +128,10 @@ This project wasn't easy. Here are two major hurdles I overcame:
 <img width="1500" height="224" alt="image" src="https://github.com/user-attachments/assets/cec91349-91d0-49a4-8a0c-a1ed00d855c9" />
 
 ### Generated Creatives (After)
-*[Screenshot: Grid of 2-3 ad images with captions and download buttons]*
+<img width="1465" height="672" alt="image" src="https://github.com/user-attachments/assets/d07996dc-8817-4890-967c-61ca798634a2" />
 
 ### Example Output: EcoSip Campaign
-*[Screenshot: Lifestyle water bottle images with eco-friendly captions]*
+<img width="1465" height="672" alt="image" src="https://github.com/user-attachments/assets/7d08d7a6-bf2b-4dbe-aa34-2a201ff0a09e" />
 
 ---
 
