@@ -1,14 +1,14 @@
 # 🎨 AI Creative Studio: The Instant Ad Generator
 
-**Tagline:** An AI-powered creative engine that generates professional ad creatives (image + caption) for any brand and product in under 20 seconds, built for hackathon speed and demo reliability.
+**Tagline:** An AI powered creative engine that generates professional ad creatives (image + caption) for any brand and product in under 20 seconds, built for GroundTruth AI hackathon speed and demo reliability.
 
 ---
 
 ## 1. The Problem (Real World Scenario)
 
-**Context:** During my research into marketing workflows, I identified a critical bottleneck: Marketing teams and small businesses spend hours creating ad creatives. They need to hire designers, write copy, iterate on concepts, and coordinate between multiple tools—all for a single campaign.
+**Context:** During my research into marketing workflows, I identified a critical bottleneck: Marketing teams and small businesses spend hours creating ad creatives. They need to hire designers, write copy, iterate on concepts, and coordinate between multiple tools all for a single campaign.
 
-**The Pain Point:** This process is expensive, time-consuming, and requires multiple skill sets. A startup launching a new product might need 2-3 ad variations, but creating them manually takes days and costs hundreds of dollars in design fees. For hackathons and rapid prototyping, this delay kills momentum.
+**The Pain Point:** This process is expensive, time consuming, and requires multiple skill sets. A startup launching a new product might need 2-3 ad variations, but creating them manually takes days and costs hundreds of dollars in design fees. For hackathons and rapid prototyping, this delay kills momentum.
 
 **My Solution:** I built AI Creative Studio, a single-page web application. You simply fill in four fields (brand, product, audience, tone), click "Generate Ads," and 20 seconds later, you receive 2-3 professionally designed ad images with matching captions, ready to download and use.
 
@@ -28,7 +28,7 @@
 **Example Workflow:**
 
 1. Brand: "EcoSip"
-2. Product: "Reusable stainless-steel water bottle"
+2. Product: "Reusable stainless steel water bottle"
 3. Audience: "College students"
 4. Tone: "Casual, eco-friendly"
 5. **Result:** 2-3 lifestyle product images + captions like "Stay hydrated, skip the plastic." or "Your planet, your choice."
@@ -37,11 +37,11 @@
 
 ## 3. Technical Approach
 
-I wanted to build a system that is **Demo-Ready** and **Reliable**, moving beyond simple API calls to a robust, error-resilient pipeline that handles failures gracefully.
+I wanted to build a system that is **Demo Ready** and **Reliable**, moving beyond simple API calls to a robust, error-resilient pipeline that handles failures gracefully.
 
 **System Architecture:**
 
-**Frontend (Event-Driven UI):**
+**Frontend (Event Driven UI):**
 - A single-page HTML application with vanilla JavaScript
 - Real-time form validation with inline error messages
 - Loading states and error handling for better UX
@@ -79,7 +79,7 @@ I wanted to build a system that is **Demo-Ready** and **Reliable**, moving beyon
 ## 4. Tech Stack
 
 - **Language:** Python 3.8+
-- **Backend Framework:** FastAPI (lightweight, async-capable, auto-documentation)
+- **Backend Framework:** FastAPI (lightweight, async capable, auto documentation)
 - **Frontend:** Vanilla HTML/CSS/JavaScript (no build step, instant loading)
 - **Image Generation:** 
   - **Primary (Free):** Hugging Face Stable Diffusion XL
